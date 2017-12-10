@@ -1,7 +1,7 @@
 ![TraktToKodi EmbyCon Connector](https://raw.githubusercontent.com/anxdpanic/script.trakttokodi.embycon/master/icon.png)
 # TraktToKodi EmbyCon Connector
 
-TraktToKodi EmbyCon Connector connects [TraktToKodi](https://github.com/anxdpanic/TraktToKodi-Extension/) to EmbyCon, and will open/play your EmbyCon content from trakt.tv in your browser.
+TraktToKodi EmbyCon Connector connects [TraktToKodi](https://github.com/anxdpanic/TraktToKodi-Extension/) to [EmbyCon](https://github.com/faush01/plugin.video.embycon), and will open/play your EmbyCon content from trakt.tv in your browser.
 
 
 - Installation
