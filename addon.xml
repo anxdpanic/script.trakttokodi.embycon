@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.trakttokodi.embycon"
-       name="TraktToKodi EmbyCon Connector"
-       version="1.0.1"
-       provider-name="anxdpanic">
+<addon id="script.trakttokodi.embycon" name="TraktToKodi EmbyCon Connector" version="1.0.1" provider-name="anxdpanic">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
         <import addon="plugin.video.embycon" version="1.3.50"/>
